@@ -1,0 +1,10 @@
+diffusers>=0.12.0
+transformers>=4.30.0
+accelerate
+torch
+safetensors
+huggingface_hub
+gradio
+rembg
+Pillow
+tqdm
